@@ -3,7 +3,8 @@
 * Creating A New Project
 * Create an app or collection of files to give to GitHub
 * Create a GitHub Repo called test-app
-# Push local files to new gitHub repo
+
+# Updating An Existing Project
 	$ cd path/to/directory/where/you/app/or/files/are
 	$ git init
 	$ git add .
