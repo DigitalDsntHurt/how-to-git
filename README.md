@@ -9,22 +9,17 @@
 	
 	$ cd path/to/your/dir
 
-* Clone the project
-	
-	$ git clone git@github.com:DigitalDsntHurt/test-app.git
-	
-	$ cd test-app
+* Clone the project	
+$ git clone git@github.com:DigitalDsntHurt/test-app.git
+$ cd test-app
 
 * Make & save hanges to files ~
 
-	$ git add .
+$ git add .
+$ git commit -m "i changed some files"
+$ git remote add origin git@github.com:DigitalDsntHurt/test-app
 
-	$ git commit -m "i changed some files"
-
-	$ git remote add origin git@github.com:DigitalDsntHurt/test-app
-
-* Create a new branch and switch to it
-
+# Create a new branch and switch to it
 	$ git checkout -b new-branch
 
 * Push changes to new branch
