@@ -1,8 +1,8 @@
 # Learning to use Git
 
-# Creating A New Project
-# Create an app or collection of files to give to GitHub
-# Create a GitHub Repo called test-app
+* Creating A New Project
+* Create an app or collection of files to give to GitHub
+* Create a GitHub Repo called test-app
 # Push local files to new gitHub repo
 	$ cd path/to/directory/where/you/app/or/files/are
 	$ git init
