@@ -1,24 +1,18 @@
-# README
+# Learning to use Git
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+* Create an app or collection of files to give to GitHub
 
-Things you may want to cover:
+* Create a GitHub Repo called test-app
 
-* Ruby version
+{ 
+$ cd path/to/your/dir 
+$ git init .
+$ git add .
+$ git remote add origin git@github.com:DigitalDsntHurt/test-app
+$ git push origin master
+}
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
+* clone
+* update
 
 * ...
