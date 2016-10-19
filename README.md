@@ -12,7 +12,7 @@
 	$ git clone git@github.com:DigitalDsntHurt/test-app.git
 	$ cd test-app
 
-# Make & save hanges to files ~
+# Make & save changes to files ~
 	$ git add .
 	$ git commit -m "i changed some files"
 	$ git remote add origin git@github.com:DigitalDsntHurt/test-app
