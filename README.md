@@ -8,19 +8,13 @@
 # Update An Existing Project
 	$ cd path/to/your/dir
 * Clone the project
-$ git clone git@github.com:DigitalDsntHurt/test-app.git
-$ cd test-app
+	$ git clone git@github.com:DigitalDsntHurt/test-app.git
+	$ cd test-app
 * Make & save hanges to files ~
-$ git add .
-$ git commit -m "i changed some files"
-$ git remote add origin git@github.com:DigitalDsntHurt/test-app
+	$ git add .
+	$ git commit -m "i changed some files"
+	$ git remote add origin git@github.com:DigitalDsntHurt/test-app
 * Create a new branch and switch to it
-$ git checkout -b new-branch
+	$ git checkout -b new-branch
 * Push changes to new branch
-$ git push origin new-branch
-'''
-
-* clone
-* update
-
-* ...
+	$ git push origin new-branch
