@@ -1,11 +1,18 @@
 # Learning to use Git
 
-# Create A New Project
+* Creating A New Project
 * Create an app or collection of files to give to GitHub
 * Create a GitHub Repo called test-app
-* Upload to master branch
 
-# Update An Existing Project
+# Updating An Existing Project
+	$ cd path/to/directory/where/you/app/or/files/are
+	$ git init
+	$ git add .
+	$ git commit -m "first commit"
+	$ git remote add origin git@github.com:DigitalDsntHurt/test-app.git
+	$ git push -u origin master
+
+# Updating An Existing Project
 	$ cd path/to/your/dir
 
 # Clone the project	
