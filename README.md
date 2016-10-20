@@ -15,8 +15,12 @@
 # Updating An Existing Project
 	$ cd path/to/your/dir
 
-# Clone the project	
+# Clone the project	(master branch)
 	$ git clone git@github.com:DigitalDsntHurt/test-app.git
+	$ cd test-app
+
+# Clone the project	(particular branch)
+	$ git clone -b branch-name --single-branch git@github.com:DigitalDsntHurt/test-app.git
 	$ cd test-app
 
 # Make & save changes to files ~
